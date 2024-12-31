@@ -1,0 +1,25 @@
+{
+    "envios": [
+        {
+            "nombre": "Fedex",
+            "calidad de envio": "perfecta",
+            "critica del publico": "excelente",
+            "precio": 199,
+            "tardanza": 5
+        },
+        {
+            "nombre": "DHL",
+            "calidad de envio": "Alta",
+            "critica del publico": "excelente",
+            "precio": 113,
+            "tardanza": 7
+        },
+        {
+            "nombre": "UPS",
+            "calidad de envio": "Alta",
+            "critica del publico": "excelente",
+            "precio": 1,
+            "tardanza": 2
+        }
+    ]
+}
